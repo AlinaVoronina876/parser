@@ -9,6 +9,6 @@ def main():
 
     for code, num, currency in currencies:
         print(f'{code}   {num}   {currency}')
-        
+
 if __name__ == "__main__":
     main()
